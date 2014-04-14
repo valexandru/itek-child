@@ -1,4 +1,4 @@
-This is a child Theme of itek used for the site http://vatracuidei.ro , customized by Vochescu Alexandru.
+This is a child-theme of itek used for the site http://vatracuidei.ro , customized by Vochescu Alexandru.
 If you want to use this version and stop wordpress from spamming you to update it, use the "Disable WordPress Theme Updates" 
 free plugin.
 
